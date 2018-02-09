@@ -20,7 +20,10 @@
 }
 
 .top_links {
+  font-size: 16pt;
   color: #eeeeee;
+  text-decoration: none;
+  padding-left: 10pt;
 }
 
 h1{

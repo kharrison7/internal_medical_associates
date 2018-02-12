@@ -13,6 +13,23 @@
   border-width: 1px;
   border-color: blue;
   box-shadow: 0 0px 0 rgba(0, 0, 0, 0.1);
+  display: flex;
+}
+
+.call_for_an_appointment{
+  position: relative;
+  left: 340px;
+  margin-top: 10px;
+}
+
+.page-container{
+  display: flex;
+  justify-content: center;
+}
+
+.page-all-items{
+  max-width: 1200px;
+  -webkit-box-shadow: 0 0 10px 0 rgba(0,0,0,.2);
 }
 
 .header_bar {
@@ -24,6 +41,10 @@
   color: #eeeeee;
   text-decoration: none;
   padding-left: 10pt;
+}
+
+.home_link {
+  margin-left: 10pt;
 }
 
 h1{
@@ -50,6 +71,7 @@ h1{
 
 .right_contents {
   margin-top: 20pt;
+  margin-left: 10pt;
 }
 
 .hours_box{
@@ -59,12 +81,45 @@ h1{
   border-width: 1px;
   border-color: black;
   width: 180pt;
-  height: 230pt
+  height: 225pt
+}
+
+#top_hours_box {
+  margin-top: 10pt;
 }
 
 .hours_box > p{
   margin-left: 20pt;
+  margin-top: -10pt;
+  font-family: 'Times New Roman',Georgia,"Times New Roman",serif;
 }
+
+.central_text {
+  width:500pt;
+}
+
+.central_text > p{
+  font-size: 16pt;
+  font-family: 'Times New Roman',Georgia,"Times New Roman",serif;
+}
+
+.footer{
+  display: flex;
+  justify-content: center;
+  background-color: #07445e;
+  color: #E7E1E1;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  height: 3em;
+  margin-bottom: -10pt;
+}
+
+.github_link{
+  text-decoration: none;
+  color: #E7E1E1;
+
+}
+
 
 /* body{
   background-color: white;

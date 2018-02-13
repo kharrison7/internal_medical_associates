@@ -37,10 +37,18 @@
 }
 
 .top_links {
-  font-size: 16pt;
   color: #eeeeee;
   text-decoration: none;
-  padding-left: 10pt;
+  font-family: 'Times New Roman',Georgia,"Times New Roman",serif;
+  font-weight: 700;
+  font-size: 20px;
+  padding: 10px 6px 8px;
+}
+
+.header_bar a:hover{
+  opacity: 0.7;
+  transition: all .4s ease-in-out;
+
 }
 
 .home_link {

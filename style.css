@@ -18,7 +18,7 @@
 
 .call_for_an_appointment{
   position: relative;
-  left: 340px;
+  left: 220px;
   margin-top: 10px;
 }
 
@@ -63,7 +63,15 @@ h1{
 .Internal_Medical_Associates {
   font-family: Candara, Times, Arial;
   color: #07445e;
-  /* font-size:30pt; */
+  font-size:30pt;
+}
+
+.img-phone-icon {
+  height: 30pt;
+  width: 30pt;
+  left: 200px;
+  position: relative;
+  margin-top: 40px;
 }
 
 .header_names {

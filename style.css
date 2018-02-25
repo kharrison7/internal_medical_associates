@@ -123,6 +123,16 @@ h1{
   font-family: 'Times New Roman',Georgia,"Times New Roman",serif;
 }
 
+.central_text > div > p{
+  font-size: 16pt;
+  font-family: 'Times New Roman',Georgia,"Times New Roman",serif;
+}
+
+.central_text > div > div > p{
+  font-size: 16pt;
+  font-family: 'Times New Roman',Georgia,"Times New Roman",serif;
+}
+
 .footer{
   display: flex;
   justify-content: center;
@@ -152,6 +162,12 @@ h1{
   float: right;
   text-decoration: underline;
 }
+
+.about_us_section {
+  /* display: flex; */
+
+}
+
 
 /* .central_img {
     max-width: 90%;

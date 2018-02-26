@@ -165,7 +165,19 @@ h1{
 
 .about_us_section {
   /* display: flex; */
+}
 
+.float_right {
+  float: right;
+  margin-left: 30pt;
+}
+
+.margin_bottom_about_us {
+  margin-bottom: 120pt;
+}
+
+.margin_bottom_about_us {
+  margin-bottom: 120pt;
 }
 
 

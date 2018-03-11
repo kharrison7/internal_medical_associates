@@ -133,6 +133,11 @@ h1{
   font-family: 'Times New Roman',Georgia,"Times New Roman",serif;
 }
 
+.central_text > li {
+  font-size: 14pt;
+  font-family: 'Times New Roman',Georgia,"Times New Roman",serif;
+}
+
 .footer{
   display: flex;
   justify-content: center;

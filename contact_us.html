@@ -7,8 +7,7 @@
     <script async defer
       src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDE9WJ0ArQE8b4K7rNVL_vpL7nxyCc1Da0&callback=initMap">
     </script>
-
-    <script src="https://maps.googleapis.com/maps/api/js?callback=myMap"></script>
+    <!-- gmapsapikey=AIzaSyDE9WJ0ArQE8b4K7rNVL_vpL7nxyCc1Da0 -->
     <style>
       #map {
         width: 100%;
@@ -94,7 +93,7 @@
             <br />
             <hr />
             <br />
-            <h2>Directions</h2>
+            <h2 id="anchorPoint">Directions</h2>
             <div id="map"></div>
           </div>
           <br />
@@ -113,7 +112,7 @@
             <br />
             <p>Suite 106, 105 Newson Street</p>
             <p>Durham, NC 27704</p>
-            <a class="blue_text move_directions_right">Directions</a>
+            <a class="blue_text move_directions_right"  href="#anchorPoint" id="directionAnchorPoint">Directions</a>
             <br />
             <p>Office Hours</p>
             <p>Monday     8:45 am - 4:15 pm</p>

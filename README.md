@@ -14,7 +14,7 @@ https://imgur.com/a/FhGCp
 AWS Direct Host for S3
 http://www.durhaminternalmedicalassociates.com.s3-website-us-east-1.amazonaws.com/contact_us.html
 
-Domain
+Domain from https://www.namecheap.com/
 durhaminternalmedicine.com
 
 Namecheap order #

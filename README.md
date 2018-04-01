@@ -3,6 +3,9 @@
 This is a website for the Internal Medical Associates practice in Durham NC.
 
 Website:
+http://www.pozaandharrisoninternalmedicineassociates.com/
+
+Alternate Website:
 http://www.durhaminternalmedicalassociates.com/
 
 Github link

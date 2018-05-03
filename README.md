@@ -15,7 +15,10 @@ Images
 https://imgur.com/a/FhGCp
 
 AWS Direct Host for S3
+
 http://www.durhaminternalmedicalassociates.com.s3-website-us-east-1.amazonaws.com/contact_us.html
+
+https://console.aws.amazon.com/console/home?region=us-east-1
 
 Domain from https://www.namecheap.com/
 durhaminternalmedicine.com

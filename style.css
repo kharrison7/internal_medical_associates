@@ -197,6 +197,10 @@ h1{
   margin-top: 10pt;
 }
 
+.bold-text {
+  font-weight: bolder;
+}
+
 
 /* .central_img {
     max-width: 90%;
